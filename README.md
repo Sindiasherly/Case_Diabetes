@@ -9,7 +9,7 @@
 ##### Nota: Los resultados obtenidos deberian ser revisados en conjunto con médicos especialistas
 
 ## Datos
-Los datos que se usaron han sido tomados de la plataforma  [UCI](https://archive.ics.uci.edu/ml/datasets/Diabetes+130-US+hospitals+for+years+1999-2008). Estos datos se prepararon para analizar los factores relacionados con la readmisión, así como otros resultados relacionados con los pacientes con diabetes.(https://www.kaggle.com/unsdsn/world-happiness).
+Los datos que se usaron han sido tomados de la plataforma  [UCI](https://archive.ics.uci.edu/ml/datasets/Diabetes+130-US+hospitals+for+years+1999-2008). Estos datos se prepararon para analizar los factores relacionados con la readmisión, así como otros resultados relacionados con los pacientes con diabetes.
 
 ## Paquetes a utilizar
 Para que la aplicación puede ejecutarse adecuadamente, instalar los siguientes paquetes:
