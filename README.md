@@ -15,13 +15,13 @@ Los datos que se usaron han sido tomados de la plataforma  [UCI](https://archive
 Para que la aplicación puede ejecutarse adecuadamente, instalar los siguientes paquetes:
 
 ```r
-intall.packages("MASS")
-intall.packages("nnet")
-intall.packages("dplyr")
-intall.packages("scorecard")
-intall.packages("pROC")
-intall.packages("ggplot2")
-intall.packages("knitr")
-intall.packages("reshape2")
-intall.packages("skimr")
+install.packages("MASS")
+install.packages("nnet")
+install.packages("dplyr")
+install.packages("scorecard")
+install.packages("pROC")
+install.packages("ggplot2")
+install.packages("knitr")
+install.packages("reshape2")
+install.packages("skimr")
 ```
